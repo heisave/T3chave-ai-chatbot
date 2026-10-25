@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "The T3chave — AI Chatbot",
-  description: "Chat with The T3chave, an AI assistant powered by OpenAI.",
+  description: "Chat with The T3chave, an AI assistant powered by Google Gemini.",
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {
